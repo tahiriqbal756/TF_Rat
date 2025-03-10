@@ -18,6 +18,16 @@
 7. **System Control** - Perform actions like shutdown, restart, or open applications on the target system.
 
 ---
+اب آپ کے **README.md** فائل میں **Replit**, **Heroku**, اور **Render** کے **deploy buttons** شامل ہو گئے ہیں۔
+
+**Steps to Deploy:**
+- **Replit:** صرف [Deploy to Replit](https://replit.com/github/tahiriqbal756/TF_Rat) پر کلک کریں۔
+- **Heroku:** صرف [Deploy to Heroku](https://heroku.com/deploy?template=https://github.com/tahiriqbal756/TF_Rat) پر کلک کریں۔
+- **Render:** صرف [Deploy to Render](https://render.com/deploy) پر کلک کریں۔
+
+اس طرح آپ کے یوزرز کے لیے ڈپلائمنٹ بہت آسان ہو جائے گا۔
+
+اگر آپ کو کچھ اور مدد چاہیے ہو تو بتائیے گا۔
 
 ### **Setup Guide:**
 
