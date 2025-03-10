@@ -23,5 +23,5 @@
 
 1. **Clone the Repository:**
    ```bash
-   git clone https://github.com/YourGitHubUsername/TF-NEW-RAT.git
-   cd TF-NEW-RAT
+   git clone https://github.com/tahiriqbal756/TF_Rat.git
+   cd TF_Rat
